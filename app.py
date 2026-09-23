@@ -29,7 +29,7 @@ def load_and_train():
 
 df, model, model_columns = load_and_train()
 
-st.title("HK Used Car Price Estimator — s201744006_CA2 Prototype")
+st.title("HK Used Car Price Estimator — 250127421_CA2 Prototype")
 st.write("Predicts **resale price (HKD)** from real Hong Kong Motor City transactions. This is a quote ballpark — not an official valuation form.")
 
 inputs = {}
